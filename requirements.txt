@@ -1,0 +1,14 @@
+jax
+flax
+optax
+distrax
+orbax-checkpoint
+torch
+torchvision
+numpy
+scipy
+matplotlib
+pandas
+tqdm
+openTSNE
+absl-py
