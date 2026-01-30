@@ -1,6 +1,6 @@
-# Supplementary Code for ICLR Submission
+# On the Separability of Information in Diffusion Models
 
-This package contains code accompanying the paper 'Diffusion Models are Kelly Gamblers'.  
+This package contains code accompanying the [paper](https://arxiv.org/abs/2509.23937)
 It includes experiments on diffusion autoencoders (DAE) and mutual information (MI) measurements of diffusion models.
 
 ---
